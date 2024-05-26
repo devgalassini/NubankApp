@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">NubankClone</string>
 
-    <string name="txt_nome_usuário">Olá, Hédipo</string>
+    <string name="txt_nome_usuário">Olá, Dev`s</string>
     <string name="txt_saldo_conta">Conta \n\n R$ 1,500,39</string>
     <string name="txt_cartões">Meus Cartões</string>
     <string name="txt_cartão_credito">Cartão de crédito</string>
