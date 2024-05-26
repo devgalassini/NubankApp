@@ -1,4 +1,5 @@
 # Clone da Interface Banco Nubank
 
-
-![Nu](https://github.com/devgalassini/NubankApp/assets/127047446/2d55dc86-4499-4b0b-a71e-6b9a571c859c)
+<a href="https://github.com/devgalassini/NubankApp/blob/master/Nu_small.png">
+    <img src="https://github.com/devgalassini/NubankApp/blob/master/Nu_small.png" alt="Nu" width="300"/>
+</a>
